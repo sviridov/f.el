@@ -8,4 +8,4 @@
  (depends-on "s")
  (depends-on "dash")
  (depends-on "cask")
- (depends-on "undercover"))
+ (depends-on "undercover" :git "https://github.com/sviridov/undercover.el" :branch "undercover-api-change"))
